@@ -1,7 +1,3 @@
-# О себе
-
-Учусь в аспирантуре в ВГУ, там же преподаю, работаю в Генотек. В свободное время разрабатываю всякие [программные продукты](https://github.com/ekertn7/ConnectionZ), читаю умные [книги](/additional/BOOKS.md), смотрю кино, путешествую и активно отдыхаю.
-
 `FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `ReactJS` `SASS` `LESS` `GIT` `Linux`, `RabbitMQ` `PyTorch` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop` `MS SQL` `Docker`
 
 # Опыт работы
