@@ -1,4 +1,6 @@
-`FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `ReactJS` `SASS` `LESS` `GIT` `Linux`, `RabbitMQ` `PyTorch` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop` `MS SQL` `Docker`
+# Харды
+
+`FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `ReactJS` `SASS` `LESS` `GIT` `Linux` `RabbitMQ` `PyTorch` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop` `MS SQL` `Docker`
 
 # Опыт работы
 
