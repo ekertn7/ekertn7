@@ -2,11 +2,7 @@
 
 ## Hard Skills
 
-Back-end: `FastAPI` `Django` <details>
-<summary>...</summary><br>
-`Pydantic` `SQLAlchemy` `Alembic` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `Selenium`
-</details>  
-
+Back-end: `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `Selenium`  
 Front-end: `JavaScript` `VUE3` `ReactJS` `SASS` `LESS`  
 Databases: `PostgreSQL` `MongoDB` `Hadoop`  
 Other: `GIT` `Docker` `Linux`  
