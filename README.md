@@ -1,8 +1,8 @@
-# Харды
+# Hard Skills
 
-`FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `ReactJS` `SASS` `LESS` `GIT` `Linux` `RabbitMQ` `PyTorch` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop` `MS SQL` `Docker`
+`FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Celery` `RabbitMQ` `PostgreSQL` `MongoDB` `VUE3` `ReactJS` `SASS` `GIT` `Docker` `Linux` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop`
 
-# Опыт работы
+# Experience
 
 > 2023.02 - настоящее время  
 __ФГБОУ ВО «Воронежский Государственный Университет»__  
@@ -87,9 +87,9 @@ _Специалист по цифровым технологиям_
 
 </details>
 
-# Образование
+# Education
 
-> 2021 - настоящее время  
+> 2021 - present  
 __Аспирантура__  
 _в Воронежском Государственном Университете_
 
