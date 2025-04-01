@@ -1,8 +1,13 @@
-# Hard Skills
+# Fullstack web-developer
 
-`FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Celery` `RabbitMQ` `PostgreSQL` `MongoDB` `VUE3` `ReactJS` `SASS` `GIT` `Docker` `Linux` `LangChain` `Pandas` `Numpy` `Requests` `Selenium` `Hadoop`
+## Hard Skills
 
-# Experience
+Back-end: `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `Selenium`  
+Front-end: `VUE3` `ReactJS` `SASS`  
+Databases: `PostgreSQL` `MongoDB` `Hadoop`  
+Other: `GIT` `Docker` `Linux`  
+
+## Experience
 
 > 2023.02 - настоящее время  
 __ФГБОУ ВО «Воронежский Государственный Университет»__  
@@ -87,7 +92,7 @@ _Специалист по цифровым технологиям_
 
 </details>
 
-# Education
+## Education
 
 > 2021 - present  
 __Аспирантура__  
