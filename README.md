@@ -9,9 +9,9 @@ Other: `GIT` `Docker` `Linux`
 
 ## Experience
 
-> 2025.02 - настоящее время
-__ООО Генотек__
-_Fullstack web developer_
+> 2025.02 - настоящее время  
+__ООО Генотек__  
+_Fullstack web-developer_
 
 <details>
 <summary>подробности</summary><br>
