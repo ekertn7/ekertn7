@@ -2,12 +2,23 @@
 
 ## Hard Skills
 
-Back-end: `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Beanie` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `Selenium` `Aiogram` `UV` `Poetry`  
+Back-end: `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Beanie` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `AioHTTP` `Selenium` `Aiogram` `UV` `Poetry`  
 Front-end: `VUE3` `ReactJS` `SASS` `LESS`  
 Databases: `PostgreSQL` `MongoDB` `Hadoop`  
 Other: `GIT` `Docker` `Linux`  
 
 ## Experience
+
+> 2025.02 - настоящее время
+__ООО Генотек__
+_Fullstack web developer_
+
+<details>
+<summary>подробности</summary><br>
+
+Vue3 JS + Fastapi + Aiogram
+
+</details>
 
 > 2023.02 - настоящее время  
 __ФГБОУ ВО «Воронежский Государственный Университет»__  
@@ -94,7 +105,7 @@ _Специалист по цифровым технологиям_
 
 ## Education
 
-> 2021 - present  
+> 2021 - 2025  
 __Аспирантура__  
 _в Воронежском Государственном Университете_
 
