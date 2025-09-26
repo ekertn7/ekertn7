@@ -2,8 +2,8 @@
 
 ## Hard Skills
 
-Back-end: `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Beanie` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `AioHTTP` `Selenium` `Aiogram` `UV` `Poetry`  
-Front-end: `VUE3` `ReactJS` `SASS` `LESS`  
+Back-end: `Python` `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Beanie` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `AioHTTP` `Selenium` `Aiogram` `UV` `Poetry`  
+Front-end: `JavaScript` `TypeScript` `VUE3.JS + Pinia + Router` `SASS` `LESS`  
 Databases: `PostgreSQL` `MongoDB` `Hadoop`  
 Other: `GIT` `Docker` `Linux`  
 
