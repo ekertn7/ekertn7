@@ -3,20 +3,22 @@
 ## Hard Skills
 
 Back-end: `Python` `FastAPI` `Django` `Pydantic` `SQLAlchemy` `Alembic` `Beanie` `Celery` `RabbitMQ` `LangChain` `LangGraph` `Pandas` `Numpy` `Requests` `AioHTTP` `Selenium` `Aiogram` `UV` `Poetry`  
-Front-end: `JavaScript` `TypeScript` `VUE3.JS + Pinia + Router` `SASS` `LESS`  
+Front-end: `JavaScript` `TypeScript` `Vue3.JS + Pinia + Router` `SASS` `LESS`  
 Databases: `PostgreSQL` `MongoDB` `Hadoop`  
 Other: `GIT` `Docker` `Linux`  
 
 ## Experience
 
 > 2025.02 - настоящее время  
-__ООО Генотек__  
-_Fullstack web-developer_
+__ООО «Генотек»__  
+Middle fullstack web-developer_
 
 <details>
 <summary>подробности</summary><br>
 
-Vue3 JS + Fastapi + Aiogram
+Разрабатываю фронтенд на Vue3.JS, бекенд на FastAPI (чаще) и Django (реже).
+Иногда разрабатываю телеграм-ботов испольуя Aiogram.
+Нахожусь довольно близко к ML, периодически даже удается к нему прикоснуться.
 
 </details>
 
